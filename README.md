@@ -1,4 +1,4 @@
-# fxserver-esx_iaa
+# [ESX] esx_iaa JOB
 ESX IAA Job
 
 [REQUIREMENTS]
@@ -29,4 +29,7 @@ start esx_iaa
 ```
 5) * If you want player management you have to set Config.EnablePlayerManagement to true in config.lua
    * If you want armory management you have to set Config.EnableArmoryManagement to true in config.lua
+   
+6) * This script ins based on the esx_mafia and works with esx_doublejob
+   * The config zones are located in the Tequilala interior, please change it where you want to have the IAA Headcuarters.
 
